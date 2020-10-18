@@ -1,9 +1,8 @@
-# Code Refactor Horison
+# Code Refactor Horiseon
 
 After examining the Code Refractor Started Code, changes were made to improve the accessability and semantic structure. 
 
 Deployed application: https://kesiahp18.github.io/ - automatic!
-[GitHub](https://kesiahp18.github.io/)
+(https://kesiahp18.github.io/)
 
-![GitHub Logo](horiseon/Develop/assets/images//horiseon-screenshot.png)
-Format: ![Alt Text](url)
+![Alt Text](./Develop/assets/images//horiseon-screenshot.png "screenshot of application")
